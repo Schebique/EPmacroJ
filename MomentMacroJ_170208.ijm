@@ -35,7 +35,7 @@ var defaultOps=newArray(".dcm", "Semi-Automatic", true, true, true, "None", ostD
 	run("Install...", "install="+IJPath+"/macros/bones/MomentMacroJ_170208.ijm");
 } */
 
-/*macro "set F1/F2 as yoom +/-" {
+/*macro "set F1/F2 as zoom +/-" {
 	run("Add Shortcut... ", "shortcut=F1 command=[In [+]]");
 	eval("bsh", "IJ.run(\"Add Shortcut... \", \"shortcut=F1 command=[In [+]]\")");
 	eval("bsh", "IJ.run(\"Add Shortcut... \", \"shortcut=F2 command=[Out [-]]\")");
