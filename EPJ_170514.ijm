@@ -135,7 +135,7 @@ macro "Options [n3]"{
   option=getOptions();
   initThd=option[9]; //change threshold initials
   initManThd=option[11];
-  Dialog.create("MomentMacro options");
+  Dialog.create("EPJ Macro options");
   Dialog.addMessage("This plugin is considered to analyze\nMRI or Confocal bone sections");
   Dialog.addChoice("File type:", newArray(".tif", ".dcm", ".zip"), option[0]);
   Dialog.addChoice("Boundaries creation:", newArray("Threshold","Semi-Automatic"),option[1]);
