@@ -19,9 +19,11 @@ be made either “manually” (selecting the boundary by FIJI Polygon Tool), aut
 combination of 4 user-defined points and algorithm-based Spline/Ellipse fitting).
 
 Literature cited:
+
 Ruff CB. 2008. Biomechanical analysis of archaeological human skeletons. In: Katzenberg MA, and Saunders
 SR, editors. Biological anthropology of the human skeleton. 2nd ed. New York: Wiley-Liss, Inc. p 183-
 206.
+
 Skedros J. 2011. Interpreting load history in limb-bone diaphyses: important considerations and their
 biomechanical foundations. In: Crowder CM, and Stout SD, editors. Bone Histology: an Anthropological
 Perspective. New York: CRC Press. p 153-220.
