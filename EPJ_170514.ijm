@@ -7,7 +7,7 @@
   based on the dynamically equivalent ellipse as defined by Medalia (1970).
   look line 961 and more.
   
-  Code was adjusted by Ondrej Sebesta (sebesta@natur.cuni.cz or ondrejsebesta@seznam.cz)
+  Code was adjusted by Ondrej Sebesta (sebesta@natur.cuni.cz)
   to help handle manual selections of MRI and Confocal (Leica TCS SP2) images.
   For more credits please look at line 1040-1050.
   tested in FIJI 2.0.0-rc-59/1.51n99 on Linux Mint 64-bit
