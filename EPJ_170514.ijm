@@ -1,8 +1,14 @@
-/* version 170514 - MomentMacroJ is renamed as EPJmacro for the public release.
-/* version 170208 - TA, CA and MA measurements adjusted to CA=TA - MA formula. Threshold works like J.Hopkins macro.
-/* version 161026
-/* versuib 161012
-/* version 160623
+/* version 170514 - MomentMacroJ is renamed as EPJmacro for the public release in:
+
+Sládek V, Sabolová V, Šebesta O, Zikmund T, Kaiser J, Čerevková S. Effect of
+deriving periosteal and endosteal contours from microCT scans on computation of
+cross-sectional properties in non-adults: the femur. J Anat. 2018 May 31. doi:
+10.1111/joa.12835. [Epub ahead of print] PubMed PMID: 29855036.
+
+version 170208 - TA, CA and MA measurements adjusted to CA=TA - MA formula. Threshold works like J.Hopkins macro.
+version 161026
+version 161012
+version 160623
   This macro calculates the anisometry and bulkiness of binary particles
   based on the dynamically equivalent ellipse as defined by Medalia (1970).
   look line 961 and more.
