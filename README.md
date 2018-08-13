@@ -27,3 +27,9 @@ SR, editors. Biological anthropology of the human skeleton. 2nd ed. New York: Wi
 Skedros J. 2011. Interpreting load history in limb-bone diaphyses: important considerations and their
 biomechanical foundations. In: Crowder CM, and Stout SD, editors. Bone Histology: an Anthropological
 Perspective. New York: CRC Press. p 153-220.
+
+Software published in:
+Sládek V, Sabolová V, Šebesta O, Zikmund T, Kaiser J, Čerevková S. Effect of
+deriving periosteal and endosteal contours from microCT scans on computation of
+cross-sectional properties in non-adults: the femur. J Anat. 2018 May 31. doi:
+10.1111/joa.12835. [Epub ahead of print] PubMed PMID: 29855036.
