@@ -29,6 +29,7 @@ biomechanical foundations. In: Crowder CM, and Stout SD, editors. Bone Histology
 Perspective. New York: CRC Press. p 153-220.
 
 Software published in:
+
 Sládek V, Sabolová V, Šebesta O, Zikmund T, Kaiser J, Čerevková S. Effect of
 deriving periosteal and endosteal contours from microCT scans on computation of
 cross-sectional properties in non-adults: the femur. J Anat. 2018 May 31. doi:
